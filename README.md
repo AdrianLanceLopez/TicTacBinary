@@ -68,8 +68,8 @@ python main.py
 🙏 Acknowledgments
 
 
-Special thanks to everyone who supported the development of Tic Tac Binary.
+- Special thanks to everyone who supported the development of Tic Tac Binary.
 
-Inspired by the love of classic games and the digital world.
+- Inspired by the love of classic games and the digital world.
 
 
