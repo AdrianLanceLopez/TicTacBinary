@@ -57,27 +57,12 @@ python main.py
 ```
 
 
-
-
-
-
 👥 Contributors
 
+```
 De Guzman, Loraine T.
 
-
 Lopez, Adrian Lance R.
-
-
-
-
-
-
-
-
-
-
-
 
 
 🙏 Acknowledgments
@@ -85,5 +70,6 @@ Lopez, Adrian Lance R.
 
 Special thanks to everyone who supported the development of Tic Tac Binary.
 
-
 Inspired by the love of classic games and the digital world.
+```
+
