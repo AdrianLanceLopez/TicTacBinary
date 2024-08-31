@@ -59,6 +59,8 @@ python main.py
 👥 Contributors
 
 Lopez, Adrian Lance R.
+
+
 De Guzman, Loraine T.
 
 🙏 Acknowledgments
