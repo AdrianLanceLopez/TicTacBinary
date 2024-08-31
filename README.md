@@ -44,7 +44,7 @@ git clone https://github.com/AdrianLanceLopez/TicTacBinary.git
 cd TicTacBinary
 ```
 
-3. In the command prompt/ terminal run the following command
+3. In the command prompt / terminal run the following command
 
 ```
 pip install -r requirements.txt
