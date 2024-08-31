@@ -41,7 +41,7 @@ git clone https://github.com/AdrianLanceLopez/TicTacBinary.git
 2. Go to the root folder
 
 ```
-cd tic_tac_toe
+cd TicTacBinary
 ```
 
 3. In the command prompt/ terminal run the following command
