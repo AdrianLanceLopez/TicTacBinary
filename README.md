@@ -25,10 +25,12 @@ Tic Tac Binary brings a fresh perspective to the traditional Tic Tac Toe game by
 - Objective: Align three of your binary digits ("1" or "0") in a row, column, or diagonal to win.
 
 - Player Turns: The game alternates turns between two players or between the user and the computer.
-Winning Condition: The game checks for winning combinations after each turn. If a player aligns three of their digits, they win.
+
+- Winning Condition: The game checks for winning combinations after each turn. If a player aligns three of their digits, they win.
 
 - Tie Condition: If all cells are filled without a winning combination, the game ends in a tie.
-Interactive Buttons: Clickable buttons represent each cell of the game board, providing an intuitive playing experience.
+
+- Interactive Buttons: Clickable buttons represent each cell of the game board, providing an intuitive playing experience.
 
 
 🛠️ Installation & Setup
