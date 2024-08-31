@@ -4,7 +4,7 @@
 
 1. Clone the repository
 ```
-git clone https://github.com/AdrianLanceLopez/TicTacBinary
+git clone https://github.com/AdrianLanceLopez/TicTacBinary.git
 ```
 
 2. Go to the root folder
