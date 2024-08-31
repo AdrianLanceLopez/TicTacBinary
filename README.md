@@ -47,7 +47,7 @@ cd TicTacBinary
 3. In the command prompt/ terminal run the following command
 
 ```
-pip install Pillow
+pip install -r requirements.txt
 ```
 
 4. Run the following command to get started
