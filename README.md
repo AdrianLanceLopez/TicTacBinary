@@ -56,12 +56,26 @@ pip install -r requirements.txt
 python main.py
 ```
 
+
+
+
+
+
 👥 Contributors
 
 De Guzman, Loraine T.
 
 
 Lopez, Adrian Lance R.
+
+
+
+
+
+
+
+
+
 
 
 
